@@ -24,6 +24,7 @@ Next, use the web component in your HTML:
 
 ## Screenshot
 
+<img width="580" alt="Screen Shot 2021-03-15 at 12 31 15 PM" src="https://user-images.githubusercontent.com/239861/111203765-01ad1200-858b-11eb-867c-3c527766ba9d.png">
 
 ## Feedback
 
